@@ -19,3 +19,4 @@ I'm a student and web developer who’s always curious and constantly building c
 ### 🤝 Let's Connect!
 Open to collabs, cool ideas, or just geeking out over tech or anime. Feel free to reach out!
 
+![](https://komarev.com/ghpvc/?username=GitSetGoRishabh&abbreviated=true)
