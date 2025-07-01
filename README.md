@@ -1,5 +1,8 @@
 ## 👋 Hey, I'm Rishabh Singh Yadav !
 
+### skills 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,py,mysql)](https://skillicons.dev)
+
 I'm a student and web developer who’s always curious and constantly building cool (sometimes weird) stuff on the web. Whether it’s front-end experiments or back-end tinkering, I love bringing ideas to life through code.
 
 ### 🔧 What I Do
